@@ -21,7 +21,7 @@ function SendMail() {
                 <CloseIcon onClick={() => dispatch(closeSendMessage()) } className="sendMail__close" />
             </div>
             <form onSubmit={handleSubmit(onSubmit)} >
-                <input name='to' placeholder="To:                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                   Cc Bcc" type="text" ref={register({ required: true })} /> 
+                <input name='to' placeholder="To:                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                   Cc Bcc" type="email" ref={register({ required: true })} /> 
                 {errors.to && <p className="sendMail__error" >To is Required</p>}
                 <input name='subject' placeholder="Subject" type="text" ref={register({ required: true })} />
                 {errors.subject && <p className="sendMail__error" >Subject is Required</p>}
