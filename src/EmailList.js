@@ -92,6 +92,94 @@ function EmailList() {
                 description="testing 1 2 3"
                 time="12 noon"
                 />
+                       <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3 "
+                time="12 noon"
+                />
+                   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />
+                       <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3 "
+                time="12 noon"
+                />
+                   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />
+                       <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3 "
+                time="12 noon"
+                />
+                   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />
+                       <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3 "
+                time="12 noon"
+                />
+                   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />   <EmailRow 
+                title="Twitch"
+                subject="Hello there !!!!"
+                description="testing 1 2 3"
+                time="12 noon"
+                />
             </div>
             
         </div>

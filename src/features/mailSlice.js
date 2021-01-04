@@ -11,10 +11,10 @@ export const mailSlice = createSlice({
       state.selectedMail = action.payload;
     },
 
-    openSendMessage: state => {
+    openSendMessage: (state) => {
     state.sendMessageIsOpen = true;
   },
-  closeSendMessage: state => {
+  closeSendMessage: (state) => {
     state.sendMessageIsOpen = false;
     },
   },
